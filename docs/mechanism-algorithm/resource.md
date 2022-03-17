@@ -222,8 +222,7 @@ freezeBalance frozen_balance frozen_duration [ResourceCode:0 BANDWIDTH,1 ENERGY]
 frozen_balance: the amount of TRX to stake (unit SUN)
 frozen_duration: the staking period (currently a fixed 3 days)
 ResourceCode: 0 for Bandwidth, 1 for Energy
-receiverAddress: recipient account address
-```
+receiverAddress: TFWjAyVT47JiHD9r3bH1mTxteBHKS7mszB```
 
 ## Other Fees
 
